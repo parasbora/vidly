@@ -30,7 +30,7 @@ class Movies extends Component{
                 
             <h2 className="mt-4">Showing {count} movies in the database</h2>
             <table className="table mt-4">
-                <thead className="thead-light">
+                <thead className="thead-dark">
                     <tr>
                     <th>Title</th >
                     <th>Genre</th >
