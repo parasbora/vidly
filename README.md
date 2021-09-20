@@ -1,4 +1,4 @@
-#An app for organising favorite movies.
+# An app for organising favorite movies.
 
 # Getting Started with Create React App
 
